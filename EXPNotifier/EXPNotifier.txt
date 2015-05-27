@@ -1,0 +1,6 @@
+## Title: EXPNotifier
+## APIVersion: 100011
+## SavedVariables: EXPNotifierAddonSavedVariables
+
+EXPNotifier.xml
+EXPNotifier.lua
