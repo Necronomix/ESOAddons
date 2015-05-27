@@ -1,0 +1,6 @@
+## Title: Sorcerer Combat State
+## APIVersion: 100011
+## SavedVariables: ClockAddonSavedVariables
+
+Clock.xml
+Clock.lua
